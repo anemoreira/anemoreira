@@ -1,8 +1,8 @@
-### Olá! tudo bem? Me chamo Adejane 👋
+                                      Olá! tudo bem? Me chamo Adejane 👋
 
-- 🌱 Atualmente estudando Front-end e Ux designer.
-- 🔭 Habilidades com Quality Assurance[QA].
-- 💬 Sou estudante de Sistemas da Informação.
+                                    - 🌱 Atualmente estudando Front-end e Ux designer
+                                    - 🔭 Habilidades com Quality Assurance[QA]
+                                    - 💬 Estudante de Sistemas da Informação[Analista de Sistemas]
 
 <div align="center">
   <a href="https://github.com/adejanemoreira">
