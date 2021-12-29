@@ -1,6 +1,6 @@
 ### Olá! tudo bem? Me chamo Adejane 👋
-- 🌱 Aspirante a Front-end e Ux designer
-- 🔭 Habilidades com Quality Assurance[QA]
+- 🌱 Aspirante a Front-end
+- 🔭 Habilidades como Dev FullStack
 - 💬 Estudante de Sistemas da Informação
 
 <div align="center">
