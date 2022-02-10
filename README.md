@@ -1,5 +1,5 @@
 ### Olá! tudo bem? Me chamo Adejane 👋
-- 🌱 Aspirante a Front-end
+
 - 🔭 Habilidades como Dev FullStack
 - 💬 Estudante de Sistemas da Informação
 
