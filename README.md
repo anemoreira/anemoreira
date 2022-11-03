@@ -31,7 +31,21 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
-
+<details>
+    <summary>
+         #### Who I am?
+    </summary>
+    
+🏡 I'm Brazilian, I live in Ceará.<br>
+🏢 I'm majoring in Information Systems (IFCE)<br>
+:mortar_board: I am currently in the 7th semester<br>
+📚 I'm mainly studying Node.Js<br>
+✏️ I'm also studying ReactJS<br>
+:clapper: I would talk for hours about cinema and geek culture<br>
+:speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
+</details>
+  
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adejanemoreira}/count.svg" /></p> 
