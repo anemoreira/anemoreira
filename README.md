@@ -33,7 +33,7 @@
 :mortar_board: I am currently in the 7th semester<br>
 :clapper: I would talk for hours about cinema and geek culture<br>
 :speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
-[CV_Adejane_Moreira](https://drive.google.com/file/d/1ibjjncY9_HwdCEVa7pgMaJiFD5s_Rrtc/view?usp=share_link)<br>
+<!-- [CV_Adejane_Moreira](https://drive.google.com/file/d/1ibjjncY9_HwdCEVa7pgMaJiFD5s_Rrtc/view?usp=share_link)<br> -->
 </details>
   
  <p align="center">
