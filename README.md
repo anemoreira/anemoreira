@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  “Never walk on trails, you will only go where others have gone.”<br>
+  “Never walk on trails, for then you will only go where others have gone before.”<br>
     - Alexander Graham Bell
 </p> 
  
