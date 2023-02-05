@@ -34,7 +34,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 <details>
     <summary>
          Who I am?
