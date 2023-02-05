@@ -32,7 +32,9 @@
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; -->
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=white)
 <details>
     <summary>
          Who I am?
