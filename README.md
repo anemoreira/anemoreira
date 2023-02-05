@@ -23,17 +23,16 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=058a5e)&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)&nbsp; -->
-<!-- ![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=white) -->
-  
 <details>
     <summary>
          Who I am?
