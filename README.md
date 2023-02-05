@@ -50,7 +50,12 @@
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adejanemoreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-  
+
+<p align="center">
+  “Never walk on trails, you will only go where others have gone.”<br>
+    - Alexander Graham Bell
+</p> 
+ 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adejanemoreira}/count.svg" /></p> 
