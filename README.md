@@ -44,7 +44,8 @@
     
 🏡 I live in Ceará.<br>
 🏢 I'm majoring in Information Systems (IFCE)<br>
-:mortar_board: I am currently in the 8th semester<br>
+:mortar_board: Bachelor in Information Systems<br>
+:mortar_board: Postgraduate Degree in DevOps Engineering<br>
 :clapper: I would talk for hours about cinema and geek culture<br>
 :speech_balloon: If you have any questions or just want to talk, get in touch!<br>
 <!-- [CV_Adejane_Moreira](https://drive.google.com/file/d/1ibjjncY9_HwdCEVa7pgMaJiFD5s_Rrtc/view?usp=share_link)<br> -->
