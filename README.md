@@ -43,7 +43,6 @@
     </summary>
     
 🏡 I live in Ceará.<br>
-🏢 I'm majoring in Information Systems (IFCE)<br>
 :mortar_board: Bachelor in Information Systems<br>
 :mortar_board: Postgraduate Degree in DevOps Engineering<br>
 :clapper: I would talk for hours about cinema and geek culture<br>
